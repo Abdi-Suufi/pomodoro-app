@@ -13,6 +13,8 @@
 ## Overview
 Pomodoro app is a productivity app built with React that helps users stay organized and focused using the Pomodoro Technique. It allows users to create tasks, set reminders, and track progress efficiently.
 
+![Screenshot 2025-03-18 121956](https://github.com/user-attachments/assets/dcf10f4c-329e-40bb-bea0-36e885028fa2)
+
 ## Features
 
 - **Pomodoro Technique**  
